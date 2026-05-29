@@ -2,7 +2,7 @@
 
 Xealzid is a production-grade, highly responsive web application designed for architectural brainstorming, code generation, and direct code editing. Built with a high-performance, cyber-minimalist dark theme, it enforces OWASP security guidelines while providing seamless integration with local LLMs (such as Ollama).
 
-![xealzid](xealzid/Screenshot From 2026-05-29 17-10-49.png)
+<img src="xealzid/Screenshot From 2026-05-29 17-10-49.png" alt="Description" width="300"/>
 
 ---
 
